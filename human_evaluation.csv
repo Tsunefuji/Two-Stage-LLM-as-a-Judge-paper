@@ -1,241 +1,241 @@
-question_id	model_1	model_2	turn	winner1	winner2	winner3
-81	claude-v1	vicuna-13b-v1.3	1	model_2	model_1	model_2
-81	claude-v1	gpt-3.5-turbo	1	tie	model_2	model_2
-81	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_1	model_1
-82	claude-v1	vicuna-13b-v1.3	1	model_1	model_2	model_1
-82	claude-v1	gpt-3.5-turbo	1	tie	model_2	model_2
-82	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_1	tie	model_1
-83	claude-v1	vicuna-13b-v1.3	1	model_2	model_2	model_2
-83	claude-v1	gpt-3.5-turbo	1	model_2	model_1	model_2
-83	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_1	model_2
-84	claude-v1	vicuna-13b-v1.3	1	tie	tie	model_2
-84	claude-v1	gpt-3.5-turbo	1	model_2	model_1	model_2
-84	vicuna-13b-v1.3	gpt-3.5-turbo	1	tie	tie	model_1
-85	claude-v1	vicuna-13b-v1.3	1	model_2	model_2	model_2
-85	claude-v1	gpt-3.5-turbo	1	model_2	tie	model_1
-85	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_1	model_2
-86	claude-v1	vicuna-13b-v1.3	1	tie	model_1	model_1
-86	claude-v1	gpt-3.5-turbo	1	model_2	model_1	model_2
-86	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_2	model_2
-87	claude-v1	vicuna-13b-v1.3	1	tie	model_1	model_2
-87	claude-v1	gpt-3.5-turbo	1	tie	model_1	model_1
-87	vicuna-13b-v1.3	gpt-3.5-turbo	1	tie	model_2	model_2
-88	claude-v1	vicuna-13b-v1.3	1	model_1	model_1	tie
-88	claude-v1	gpt-3.5-turbo	1	model_1	tie	model_1
-88	vicuna-13b-v1.3	gpt-3.5-turbo	1	tie	model_1	model_1
-89	claude-v1	vicuna-13b-v1.3	1	tie	model_1	model_1
-89	claude-v1	gpt-3.5-turbo	1	tie	model_2	tie
-89	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_2	model_1
-90	claude-v1	vicuna-13b-v1.3	1	model_2	model_1	tie
-90	claude-v1	gpt-3.5-turbo	1	model_1	model_1	tie
-90	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_1	model_2	model_2
-91	claude-v1	vicuna-13b-v1.3	1	model_1	model_1	model_1
-91	claude-v1	gpt-3.5-turbo	1	model_1	model_1	model_2
-91	vicuna-13b-v1.3	gpt-3.5-turbo	1	tie	model_2	model_1
-92	claude-v1	vicuna-13b-v1.3	1	model_1	model_1	model_1
-92	claude-v1	gpt-3.5-turbo	1	model_1	model_1	model_1
-92	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_2	model_2
-93	claude-v1	vicuna-13b-v1.3	1	model_2	model_1	model_1
-93	claude-v1	gpt-3.5-turbo	1	model_2	model_1	model_1
-93	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_2	model_1
-94	claude-v1	vicuna-13b-v1.3	1	model_1	model_2	model_1
-94	claude-v1	gpt-3.5-turbo	1	model_2	model_1	tie
-94	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_2	model_1
-95	claude-v1	vicuna-13b-v1.3	1	model_1	model_1	model_1
-95	claude-v1	gpt-3.5-turbo	1	model_2	model_1	model_1
-95	vicuna-13b-v1.3	gpt-3.5-turbo	1	tie	model_2	model_2
-96	claude-v1	vicuna-13b-v1.3	1	model_1	model_2	model_2
-96	claude-v1	gpt-3.5-turbo	1	model_2	model_2	model_2
-96	vicuna-13b-v1.3	gpt-3.5-turbo	1	tie	model_1	tie
-97	claude-v1	vicuna-13b-v1.3	1	model_1	tie	model_1
-97	claude-v1	gpt-3.5-turbo	1	model_1	model_1	model_1
-97	vicuna-13b-v1.3	gpt-3.5-turbo	1	tie	model_1	tie
-98	claude-v1	vicuna-13b-v1.3	1	model_2	tie	model_1
-98	claude-v1	gpt-3.5-turbo	1	model_1	model_1	model_1
-98	vicuna-13b-v1.3	gpt-3.5-turbo	1	tie	model_1	tie
-99	claude-v1	vicuna-13b-v1.3	1	model_2	tie	model_1
-99	claude-v1	gpt-3.5-turbo	1	model_2	model_1	model_2
-99	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_1	model_2	tie
-100	claude-v1	vicuna-13b-v1.3	1	model_2	model_2	model_2
-100	claude-v1	gpt-3.5-turbo	1	model_2	model_2	model_2
-100	vicuna-13b-v1.3	gpt-3.5-turbo	1	tie	model_2	tie
-141	claude-v1	vicuna-13b-v1.3	1	model_2	tie	model_2
-141	claude-v1	gpt-3.5-turbo	1	model_1	model_2	model_2
-141	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_1	model_1
-142	claude-v1	vicuna-13b-v1.3	1	model_1	model_1	tie
-142	claude-v1	gpt-3.5-turbo	1	model_1	tie	model_2
-142	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_2	model_1
-143	claude-v1	vicuna-13b-v1.3	1	model_1	model_1	model_2
-143	claude-v1	gpt-3.5-turbo	1	model_2	model_1	model_2
-143	vicuna-13b-v1.3	gpt-3.5-turbo	1	tie	tie	tie
-144	claude-v1	vicuna-13b-v1.3	1	model_1	tie	model_2
-144	claude-v1	gpt-3.5-turbo	1	model_1	model_2	model_2
-144	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_1	model_1
-145	claude-v1	vicuna-13b-v1.3	1	model_1	model_1	model_1
-145	claude-v1	gpt-3.5-turbo	1	model_1	model_1	model_1
-145	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_1	tie	model_1
-146	claude-v1	vicuna-13b-v1.3	1	tie	tie	model_2
-146	claude-v1	gpt-3.5-turbo	1	tie	tie	model_1
-146	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	tie	model_2
-147	claude-v1	vicuna-13b-v1.3	1	tie	model_1	model_2
-147	claude-v1	gpt-3.5-turbo	1	model_1	model_1	model_1
-147	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_1	model_1	model_1
-148	claude-v1	vicuna-13b-v1.3	1	tie	tie	model_2
-148	claude-v1	gpt-3.5-turbo	1	model_2	model_2	model_2
-148	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_1	tie	model_1
-149	claude-v1	vicuna-13b-v1.3	1	model_1	model_1	model_1
-149	claude-v1	gpt-3.5-turbo	1	model_2	model_2	model_2
-149	vicuna-13b-v1.3	gpt-3.5-turbo	1	tie	tie	model_1
-150	claude-v1	vicuna-13b-v1.3	1	model_1	model_1	model_1
-150	claude-v1	gpt-3.5-turbo	1	model_1	model_1	model_2
-150	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_2	model_1
-151	claude-v1	vicuna-13b-v1.3	1	model_2	tie	model_1
-151	claude-v1	gpt-3.5-turbo	1	model_2	tie	model_1
-151	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_1	tie	tie
-152	claude-v1	vicuna-13b-v1.3	1	model_1	model_1	model_1
-152	claude-v1	gpt-3.5-turbo	1	tie	tie	tie
-152	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_2	model_2
-153	claude-v1	vicuna-13b-v1.3	1	model_2	tie	model_1
-153	claude-v1	gpt-3.5-turbo	1	model_1	tie	model_2
-153	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_1	model_1	model_1
-154	claude-v1	vicuna-13b-v1.3	1	tie	model_2	tie
-154	claude-v1	gpt-3.5-turbo	1	model_2	model_2	model_2
-154	vicuna-13b-v1.3	gpt-3.5-turbo	1	tie	tie	model_1
-155	claude-v1	vicuna-13b-v1.3	1	model_1	model_2	model_1
-155	claude-v1	gpt-3.5-turbo	1	model_1	model_2	model_1
-155	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_2	model_2
-156	claude-v1	vicuna-13b-v1.3	1	model_2	model_1	model_1
-156	claude-v1	gpt-3.5-turbo	1	model_2	model_1	model_1
-156	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_1	tie	model_1
-157	claude-v1	vicuna-13b-v1.3	1	model_2	tie	model_1
-157	claude-v1	gpt-3.5-turbo	1	model_1	model_2	model_1
-157	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_2	model_1	model_1
-158	claude-v1	vicuna-13b-v1.3	1	model_1	tie	model_1
-158	claude-v1	gpt-3.5-turbo	1	model_1	model_1	model_2
-158	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_1	tie	model_2
-159	claude-v1	vicuna-13b-v1.3	1	model_2	tie	model_1
-159	claude-v1	gpt-3.5-turbo	1	model_1	model_1	model_1
-159	vicuna-13b-v1.3	gpt-3.5-turbo	1	model_1	tie	model_1
-160	claude-v1	vicuna-13b-v1.3	1	model_1	tie	tie
-160	claude-v1	gpt-3.5-turbo	1	model_2	model_2	model_1
-160	vicuna-13b-v1.3	gpt-3.5-turbo	1	tie	model_1	model_1
-81	claude-v1	vicuna-13b-v1.3	2	tie	tie	tie
-81	claude-v1	gpt-3.5-turbo	2	model_2	model_2	model_2
-81	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	tie	model_2
-82	claude-v1	vicuna-13b-v1.3	2	model_2	model_2	model_2
-82	claude-v1	gpt-3.5-turbo	2	tie	model_2	model_1
-82	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_1	model_1	model_1
-83	claude-v1	vicuna-13b-v1.3	2	model_1	model_2	model_2
-83	claude-v1	gpt-3.5-turbo	2	model_2	model_2	model_2
-83	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_1	model_2	model_2
-84	claude-v1	vicuna-13b-v1.3	2	tie	model_2	tie
-84	claude-v1	gpt-3.5-turbo	2	tie	tie	model_2
-84	vicuna-13b-v1.3	gpt-3.5-turbo	2	tie	tie	model_2
-85	claude-v1	vicuna-13b-v1.3	2	tie	model_2	model_2
-85	claude-v1	gpt-3.5-turbo	2	model_2	model_1	model_1
-85	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_2	model_1
-86	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_1
-86	claude-v1	gpt-3.5-turbo	2	model_2	model_2	model_1
-86	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_2	model_2
-87	claude-v1	vicuna-13b-v1.3	2	model_2	model_1	model_2
-87	claude-v1	gpt-3.5-turbo	2	tie	model_2	model_1
-87	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_2	model_2
-88	claude-v1	vicuna-13b-v1.3	2	tie	model_1	tie
-88	claude-v1	gpt-3.5-turbo	2	model_1	tie	model_1
-88	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	tie	model_2
-89	claude-v1	vicuna-13b-v1.3	2	tie	model_1	model_1
-89	claude-v1	gpt-3.5-turbo	2	model_2	model_2	model_2
-89	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_1	model_2
-90	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_2
-90	claude-v1	gpt-3.5-turbo	2	model_1	model_1	model_2
-90	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_2	model_2
-91	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_1
-91	claude-v1	gpt-3.5-turbo	2	model_2	model_2	model_2
-91	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_2	model_1
-92	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_1
-92	claude-v1	gpt-3.5-turbo	2	model_1	model_1	model_1
-92	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_2	model_1
-93	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_1
-93	claude-v1	gpt-3.5-turbo	2	model_1	model_1	model_1
-93	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_1	model_2	model_1
-94	claude-v1	vicuna-13b-v1.3	2	tie	tie	model_2
-94	claude-v1	gpt-3.5-turbo	2	model_2	model_1	model_2
-94	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_2	model_1
-95	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	tie
-95	claude-v1	gpt-3.5-turbo	2	model_2	model_2	model_2
-95	vicuna-13b-v1.3	gpt-3.5-turbo	2	tie	model_2	model_2
-96	claude-v1	vicuna-13b-v1.3	2	model_1	tie	model_1
-96	claude-v1	gpt-3.5-turbo	2	model_1	model_1	model_1
-96	vicuna-13b-v1.3	gpt-3.5-turbo	2	tie	model_2	tie
-97	claude-v1	vicuna-13b-v1.3	2	model_1	tie	model_1
-97	claude-v1	gpt-3.5-turbo	2	model_1	model_2	model_1
-97	vicuna-13b-v1.3	gpt-3.5-turbo	2	tie	model_2	model_1
-98	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_1
-98	claude-v1	gpt-3.5-turbo	2	model_1	model_1	model_1
-98	vicuna-13b-v1.3	gpt-3.5-turbo	2	tie	model_2	tie
-99	claude-v1	vicuna-13b-v1.3	2	model_2	tie	model_1
-99	claude-v1	gpt-3.5-turbo	2	model_2	model_1	model_2
-99	vicuna-13b-v1.3	gpt-3.5-turbo	2	tie	model_2	model_2
-100	claude-v1	vicuna-13b-v1.3	2	model_2	model_2	model_2
-100	claude-v1	gpt-3.5-turbo	2	model_2	model_2	model_2
-100	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_2	tie
-141	claude-v1	vicuna-13b-v1.3	2	model_1	model_2	model_2
-141	claude-v1	gpt-3.5-turbo	2	model_1	model_1	model_1
-141	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_1	model_1
-142	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_2
-142	claude-v1	gpt-3.5-turbo	2	model_1	model_1	model_1
-142	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_1	tie	model_1
-143	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_2
-143	claude-v1	gpt-3.5-turbo	2	model_2	model_1	model_1
-143	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_2	model_2
-144	claude-v1	vicuna-13b-v1.3	2	model_1	tie	model_1
-144	claude-v1	gpt-3.5-turbo	2	model_1	model_1	model_1
-144	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_1	model_1
-145	claude-v1	vicuna-13b-v1.3	2	model_1	tie	model_1
-145	claude-v1	gpt-3.5-turbo	2	model_1	model_1	model_1
-145	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_1	model_1	model_2
-146	claude-v1	vicuna-13b-v1.3	2	tie	tie	model_2
-146	claude-v1	gpt-3.5-turbo	2	model_2	model_1	model_2
-146	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_1	tie	model_1
-147	claude-v1	vicuna-13b-v1.3	2	tie	model_1	model_1
-147	claude-v1	gpt-3.5-turbo	2	model_1	model_1	model_1
-147	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_1	model_1	model_1
-148	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_1
-148	claude-v1	gpt-3.5-turbo	2	model_1	model_1	model_1
-148	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_2	model_2
-149	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_1
-149	claude-v1	gpt-3.5-turbo	2	model_1	model_1	model_1
-149	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_1	model_1	model_2
-150	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_1
-150	claude-v1	gpt-3.5-turbo	2	model_1	model_1	model_1
-150	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_2	model_1
-151	claude-v1	vicuna-13b-v1.3	2	model_1	model_2	model_1
-151	claude-v1	gpt-3.5-turbo	2	model_2	model_2	model_1
-151	vicuna-13b-v1.3	gpt-3.5-turbo	2	tie	model_2	tie
-152	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_1
-152	claude-v1	gpt-3.5-turbo	2	tie	tie	tie
-152	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_2	model_2
-153	claude-v1	vicuna-13b-v1.3	2	model_2	tie	model_2
-153	claude-v1	gpt-3.5-turbo	2	model_1	tie	model_2
-153	vicuna-13b-v1.3	gpt-3.5-turbo	2	tie	tie	model_2
-154	claude-v1	vicuna-13b-v1.3	2	model_1	model_2	tie
-154	claude-v1	gpt-3.5-turbo	2	model_1	model_1	model_1
-154	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_1	tie	model_1
-155	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_1
-155	claude-v1	gpt-3.5-turbo	2	model_1	model_2	model_1
-155	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_2	model_1
-156	claude-v1	vicuna-13b-v1.3	2	model_2	model_2	model_1
-156	claude-v1	gpt-3.5-turbo	2	model_2	model_1	model_1
-156	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_1	model_1	model_1
-157	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_1
-157	claude-v1	gpt-3.5-turbo	2	model_1	tie	model_1
-157	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_2	model_1	model_2
-158	claude-v1	vicuna-13b-v1.3	2	tie	tie	tie
-158	claude-v1	gpt-3.5-turbo	2	tie	tie	model_1
-158	vicuna-13b-v1.3	gpt-3.5-turbo	2	tie	tie	tie
-159	claude-v1	vicuna-13b-v1.3	2	model_2	model_2	tie
-159	claude-v1	gpt-3.5-turbo	2	model_2	tie	model_2
-159	vicuna-13b-v1.3	gpt-3.5-turbo	2	model_1	tie	model_1
-160	claude-v1	vicuna-13b-v1.3	2	model_1	model_1	model_1
-160	claude-v1	gpt-3.5-turbo	2	model_2	model_2	model_2
-160	vicuna-13b-v1.3	gpt-3.5-turbo	2	tie	model_1	tie
+question_id,model_1,model_2,turn,winner1,winner2,winner3
+81,claude-v1,vicuna-13b-v1.3,1,model_2,model_1,model_2
+81,claude-v1,gpt-3.5-turbo,1,tie,model_2,model_2
+81,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_1,model_1
+82,claude-v1,vicuna-13b-v1.3,1,model_1,model_2,model_1
+82,claude-v1,gpt-3.5-turbo,1,tie,model_2,model_2
+82,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_1,tie,model_1
+83,claude-v1,vicuna-13b-v1.3,1,model_2,model_2,model_2
+83,claude-v1,gpt-3.5-turbo,1,model_2,model_1,model_2
+83,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_1,model_2
+84,claude-v1,vicuna-13b-v1.3,1,tie,tie,model_2
+84,claude-v1,gpt-3.5-turbo,1,model_2,model_1,model_2
+84,vicuna-13b-v1.3,gpt-3.5-turbo,1,tie,tie,model_1
+85,claude-v1,vicuna-13b-v1.3,1,model_2,model_2,model_2
+85,claude-v1,gpt-3.5-turbo,1,model_2,tie,model_1
+85,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_1,model_2
+86,claude-v1,vicuna-13b-v1.3,1,tie,model_1,model_1
+86,claude-v1,gpt-3.5-turbo,1,model_2,model_1,model_2
+86,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_2,model_2
+87,claude-v1,vicuna-13b-v1.3,1,tie,model_1,model_2
+87,claude-v1,gpt-3.5-turbo,1,tie,model_1,model_1
+87,vicuna-13b-v1.3,gpt-3.5-turbo,1,tie,model_2,model_2
+88,claude-v1,vicuna-13b-v1.3,1,model_1,model_1,tie
+88,claude-v1,gpt-3.5-turbo,1,model_1,tie,model_1
+88,vicuna-13b-v1.3,gpt-3.5-turbo,1,tie,model_1,model_1
+89,claude-v1,vicuna-13b-v1.3,1,tie,model_1,model_1
+89,claude-v1,gpt-3.5-turbo,1,tie,model_2,tie
+89,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_2,model_1
+90,claude-v1,vicuna-13b-v1.3,1,model_2,model_1,tie
+90,claude-v1,gpt-3.5-turbo,1,model_1,model_1,tie
+90,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_1,model_2,model_2
+91,claude-v1,vicuna-13b-v1.3,1,model_1,model_1,model_1
+91,claude-v1,gpt-3.5-turbo,1,model_1,model_1,model_2
+91,vicuna-13b-v1.3,gpt-3.5-turbo,1,tie,model_2,model_1
+92,claude-v1,vicuna-13b-v1.3,1,model_1,model_1,model_1
+92,claude-v1,gpt-3.5-turbo,1,model_1,model_1,model_1
+92,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_2,model_2
+93,claude-v1,vicuna-13b-v1.3,1,model_2,model_1,model_1
+93,claude-v1,gpt-3.5-turbo,1,model_2,model_1,model_1
+93,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_2,model_1
+94,claude-v1,vicuna-13b-v1.3,1,model_1,model_2,model_1
+94,claude-v1,gpt-3.5-turbo,1,model_2,model_1,tie
+94,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_2,model_1
+95,claude-v1,vicuna-13b-v1.3,1,model_1,model_1,model_1
+95,claude-v1,gpt-3.5-turbo,1,model_2,model_1,model_1
+95,vicuna-13b-v1.3,gpt-3.5-turbo,1,tie,model_2,model_2
+96,claude-v1,vicuna-13b-v1.3,1,model_1,model_2,model_2
+96,claude-v1,gpt-3.5-turbo,1,model_2,model_2,model_2
+96,vicuna-13b-v1.3,gpt-3.5-turbo,1,tie,model_1,tie
+97,claude-v1,vicuna-13b-v1.3,1,model_1,tie,model_1
+97,claude-v1,gpt-3.5-turbo,1,model_1,model_1,model_1
+97,vicuna-13b-v1.3,gpt-3.5-turbo,1,tie,model_1,tie
+98,claude-v1,vicuna-13b-v1.3,1,model_2,tie,model_1
+98,claude-v1,gpt-3.5-turbo,1,model_1,model_1,model_1
+98,vicuna-13b-v1.3,gpt-3.5-turbo,1,tie,model_1,tie
+99,claude-v1,vicuna-13b-v1.3,1,model_2,tie,model_1
+99,claude-v1,gpt-3.5-turbo,1,model_2,model_1,model_2
+99,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_1,model_2,tie
+100,claude-v1,vicuna-13b-v1.3,1,model_2,model_2,model_2
+100,claude-v1,gpt-3.5-turbo,1,model_2,model_2,model_2
+100,vicuna-13b-v1.3,gpt-3.5-turbo,1,tie,model_2,tie
+141,claude-v1,vicuna-13b-v1.3,1,model_2,tie,model_2
+141,claude-v1,gpt-3.5-turbo,1,model_1,model_2,model_2
+141,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_1,model_1
+142,claude-v1,vicuna-13b-v1.3,1,model_1,model_1,tie
+142,claude-v1,gpt-3.5-turbo,1,model_1,tie,model_2
+142,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_2,model_1
+143,claude-v1,vicuna-13b-v1.3,1,model_1,model_1,model_2
+143,claude-v1,gpt-3.5-turbo,1,model_2,model_1,model_2
+143,vicuna-13b-v1.3,gpt-3.5-turbo,1,tie,tie,tie
+144,claude-v1,vicuna-13b-v1.3,1,model_1,tie,model_2
+144,claude-v1,gpt-3.5-turbo,1,model_1,model_2,model_2
+144,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_1,model_1
+145,claude-v1,vicuna-13b-v1.3,1,model_1,model_1,model_1
+145,claude-v1,gpt-3.5-turbo,1,model_1,model_1,model_1
+145,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_1,tie,model_1
+146,claude-v1,vicuna-13b-v1.3,1,tie,tie,model_2
+146,claude-v1,gpt-3.5-turbo,1,tie,tie,model_1
+146,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,tie,model_2
+147,claude-v1,vicuna-13b-v1.3,1,tie,model_1,model_2
+147,claude-v1,gpt-3.5-turbo,1,model_1,model_1,model_1
+147,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_1,model_1,model_1
+148,claude-v1,vicuna-13b-v1.3,1,tie,tie,model_2
+148,claude-v1,gpt-3.5-turbo,1,model_2,model_2,model_2
+148,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_1,tie,model_1
+149,claude-v1,vicuna-13b-v1.3,1,model_1,model_1,model_1
+149,claude-v1,gpt-3.5-turbo,1,model_2,model_2,model_2
+149,vicuna-13b-v1.3,gpt-3.5-turbo,1,tie,tie,model_1
+150,claude-v1,vicuna-13b-v1.3,1,model_1,model_1,model_1
+150,claude-v1,gpt-3.5-turbo,1,model_1,model_1,model_2
+150,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_2,model_1
+151,claude-v1,vicuna-13b-v1.3,1,model_2,tie,model_1
+151,claude-v1,gpt-3.5-turbo,1,model_2,tie,model_1
+151,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_1,tie,tie
+152,claude-v1,vicuna-13b-v1.3,1,model_1,model_1,model_1
+152,claude-v1,gpt-3.5-turbo,1,tie,tie,tie
+152,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_2,model_2
+153,claude-v1,vicuna-13b-v1.3,1,model_2,tie,model_1
+153,claude-v1,gpt-3.5-turbo,1,model_1,tie,model_2
+153,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_1,model_1,model_1
+154,claude-v1,vicuna-13b-v1.3,1,tie,model_2,tie
+154,claude-v1,gpt-3.5-turbo,1,model_2,model_2,model_2
+154,vicuna-13b-v1.3,gpt-3.5-turbo,1,tie,tie,model_1
+155,claude-v1,vicuna-13b-v1.3,1,model_1,model_2,model_1
+155,claude-v1,gpt-3.5-turbo,1,model_1,model_2,model_1
+155,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_2,model_2
+156,claude-v1,vicuna-13b-v1.3,1,model_2,model_1,model_1
+156,claude-v1,gpt-3.5-turbo,1,model_2,model_1,model_1
+156,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_1,tie,model_1
+157,claude-v1,vicuna-13b-v1.3,1,model_2,tie,model_1
+157,claude-v1,gpt-3.5-turbo,1,model_1,model_2,model_1
+157,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_2,model_1,model_1
+158,claude-v1,vicuna-13b-v1.3,1,model_1,tie,model_1
+158,claude-v1,gpt-3.5-turbo,1,model_1,model_1,model_2
+158,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_1,tie,model_2
+159,claude-v1,vicuna-13b-v1.3,1,model_2,tie,model_1
+159,claude-v1,gpt-3.5-turbo,1,model_1,model_1,model_1
+159,vicuna-13b-v1.3,gpt-3.5-turbo,1,model_1,tie,model_1
+160,claude-v1,vicuna-13b-v1.3,1,model_1,tie,tie
+160,claude-v1,gpt-3.5-turbo,1,model_2,model_2,model_1
+160,vicuna-13b-v1.3,gpt-3.5-turbo,1,tie,model_1,model_1
+81,claude-v1,vicuna-13b-v1.3,2,tie,tie,tie
+81,claude-v1,gpt-3.5-turbo,2,model_2,model_2,model_2
+81,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,tie,model_2
+82,claude-v1,vicuna-13b-v1.3,2,model_2,model_2,model_2
+82,claude-v1,gpt-3.5-turbo,2,tie,model_2,model_1
+82,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_1,model_1,model_1
+83,claude-v1,vicuna-13b-v1.3,2,model_1,model_2,model_2
+83,claude-v1,gpt-3.5-turbo,2,model_2,model_2,model_2
+83,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_1,model_2,model_2
+84,claude-v1,vicuna-13b-v1.3,2,tie,model_2,tie
+84,claude-v1,gpt-3.5-turbo,2,tie,tie,model_2
+84,vicuna-13b-v1.3,gpt-3.5-turbo,2,tie,tie,model_2
+85,claude-v1,vicuna-13b-v1.3,2,tie,model_2,model_2
+85,claude-v1,gpt-3.5-turbo,2,model_2,model_1,model_1
+85,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_2,model_1
+86,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_1
+86,claude-v1,gpt-3.5-turbo,2,model_2,model_2,model_1
+86,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_2,model_2
+87,claude-v1,vicuna-13b-v1.3,2,model_2,model_1,model_2
+87,claude-v1,gpt-3.5-turbo,2,tie,model_2,model_1
+87,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_2,model_2
+88,claude-v1,vicuna-13b-v1.3,2,tie,model_1,tie
+88,claude-v1,gpt-3.5-turbo,2,model_1,tie,model_1
+88,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,tie,model_2
+89,claude-v1,vicuna-13b-v1.3,2,tie,model_1,model_1
+89,claude-v1,gpt-3.5-turbo,2,model_2,model_2,model_2
+89,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_1,model_2
+90,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_2
+90,claude-v1,gpt-3.5-turbo,2,model_1,model_1,model_2
+90,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_2,model_2
+91,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_1
+91,claude-v1,gpt-3.5-turbo,2,model_2,model_2,model_2
+91,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_2,model_1
+92,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_1
+92,claude-v1,gpt-3.5-turbo,2,model_1,model_1,model_1
+92,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_2,model_1
+93,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_1
+93,claude-v1,gpt-3.5-turbo,2,model_1,model_1,model_1
+93,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_1,model_2,model_1
+94,claude-v1,vicuna-13b-v1.3,2,tie,tie,model_2
+94,claude-v1,gpt-3.5-turbo,2,model_2,model_1,model_2
+94,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_2,model_1
+95,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,tie
+95,claude-v1,gpt-3.5-turbo,2,model_2,model_2,model_2
+95,vicuna-13b-v1.3,gpt-3.5-turbo,2,tie,model_2,model_2
+96,claude-v1,vicuna-13b-v1.3,2,model_1,tie,model_1
+96,claude-v1,gpt-3.5-turbo,2,model_1,model_1,model_1
+96,vicuna-13b-v1.3,gpt-3.5-turbo,2,tie,model_2,tie
+97,claude-v1,vicuna-13b-v1.3,2,model_1,tie,model_1
+97,claude-v1,gpt-3.5-turbo,2,model_1,model_2,model_1
+97,vicuna-13b-v1.3,gpt-3.5-turbo,2,tie,model_2,model_1
+98,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_1
+98,claude-v1,gpt-3.5-turbo,2,model_1,model_1,model_1
+98,vicuna-13b-v1.3,gpt-3.5-turbo,2,tie,model_2,tie
+99,claude-v1,vicuna-13b-v1.3,2,model_2,tie,model_1
+99,claude-v1,gpt-3.5-turbo,2,model_2,model_1,model_2
+99,vicuna-13b-v1.3,gpt-3.5-turbo,2,tie,model_2,model_2
+100,claude-v1,vicuna-13b-v1.3,2,model_2,model_2,model_2
+100,claude-v1,gpt-3.5-turbo,2,model_2,model_2,model_2
+100,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_2,tie
+141,claude-v1,vicuna-13b-v1.3,2,model_1,model_2,model_2
+141,claude-v1,gpt-3.5-turbo,2,model_1,model_1,model_1
+141,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_1,model_1
+142,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_2
+142,claude-v1,gpt-3.5-turbo,2,model_1,model_1,model_1
+142,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_1,tie,model_1
+143,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_2
+143,claude-v1,gpt-3.5-turbo,2,model_2,model_1,model_1
+143,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_2,model_2
+144,claude-v1,vicuna-13b-v1.3,2,model_1,tie,model_1
+144,claude-v1,gpt-3.5-turbo,2,model_1,model_1,model_1
+144,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_1,model_1
+145,claude-v1,vicuna-13b-v1.3,2,model_1,tie,model_1
+145,claude-v1,gpt-3.5-turbo,2,model_1,model_1,model_1
+145,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_1,model_1,model_2
+146,claude-v1,vicuna-13b-v1.3,2,tie,tie,model_2
+146,claude-v1,gpt-3.5-turbo,2,model_2,model_1,model_2
+146,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_1,tie,model_1
+147,claude-v1,vicuna-13b-v1.3,2,tie,model_1,model_1
+147,claude-v1,gpt-3.5-turbo,2,model_1,model_1,model_1
+147,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_1,model_1,model_1
+148,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_1
+148,claude-v1,gpt-3.5-turbo,2,model_1,model_1,model_1
+148,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_2,model_2
+149,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_1
+149,claude-v1,gpt-3.5-turbo,2,model_1,model_1,model_1
+149,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_1,model_1,model_2
+150,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_1
+150,claude-v1,gpt-3.5-turbo,2,model_1,model_1,model_1
+150,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_2,model_1
+151,claude-v1,vicuna-13b-v1.3,2,model_1,model_2,model_1
+151,claude-v1,gpt-3.5-turbo,2,model_2,model_2,model_1
+151,vicuna-13b-v1.3,gpt-3.5-turbo,2,tie,model_2,tie
+152,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_1
+152,claude-v1,gpt-3.5-turbo,2,tie,tie,tie
+152,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_2,model_2
+153,claude-v1,vicuna-13b-v1.3,2,model_2,tie,model_2
+153,claude-v1,gpt-3.5-turbo,2,model_1,tie,model_2
+153,vicuna-13b-v1.3,gpt-3.5-turbo,2,tie,tie,model_2
+154,claude-v1,vicuna-13b-v1.3,2,model_1,model_2,tie
+154,claude-v1,gpt-3.5-turbo,2,model_1,model_1,model_1
+154,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_1,tie,model_1
+155,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_1
+155,claude-v1,gpt-3.5-turbo,2,model_1,model_2,model_1
+155,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_2,model_1
+156,claude-v1,vicuna-13b-v1.3,2,model_2,model_2,model_1
+156,claude-v1,gpt-3.5-turbo,2,model_2,model_1,model_1
+156,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_1,model_1,model_1
+157,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_1
+157,claude-v1,gpt-3.5-turbo,2,model_1,tie,model_1
+157,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_2,model_1,model_2
+158,claude-v1,vicuna-13b-v1.3,2,tie,tie,tie
+158,claude-v1,gpt-3.5-turbo,2,tie,tie,model_1
+158,vicuna-13b-v1.3,gpt-3.5-turbo,2,tie,tie,tie
+159,claude-v1,vicuna-13b-v1.3,2,model_2,model_2,tie
+159,claude-v1,gpt-3.5-turbo,2,model_2,tie,model_2
+159,vicuna-13b-v1.3,gpt-3.5-turbo,2,model_1,tie,model_1
+160,claude-v1,vicuna-13b-v1.3,2,model_1,model_1,model_1
+160,claude-v1,gpt-3.5-turbo,2,model_2,model_2,model_2
+160,vicuna-13b-v1.3,gpt-3.5-turbo,2,tie,model_1,tie
