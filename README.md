@@ -18,6 +18,6 @@ Prompt templates used in our experiments, adapted from Cook et al. (2024) and ex
 ### `human_eval/`
 Human evaluation data collected from three American annotators holding doctoral degrees via Prolific.
 
-- `human_evaluation.csv`: Human evaluation results for MT-Bench (Writing, Roleplay, Humanities, and STEM categories)
-- `human_evaluation.csv`: Human evaluation results assessing the quality of the generated evaluation criteria.
-- `human_evaluation.csv`: Human evaluation results on whether the target model's responses satisfy the generated evaluation criteria.
+- `pairwise_evaluation.csv`: Human evaluation results for MT-Bench (Writing, Roleplay, Humanities, and STEM categories)
+- `criteria_eval.csv`: Human evaluation results assessing the quality of the generated evaluation criteria.
+- `criteria_judge_eval.csv`: Human evaluation results on whether the target model's responses satisfy the generated evaluation criteria.
