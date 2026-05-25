@@ -6,7 +6,7 @@ used in the paper "Two-Stage LLM-as-a-Judge Using Required and Bonus Criteria".
 ## Contents
 
 ### `prompt/`
-Prompt templates used in our experiments, adapted from Cook et al. (2024) and extended to support multi-turn evaluation.
+Prompt templates used in the experiments, adapted from Cook et al. (2024) and extended to support multi-turn evaluation.
 
 - `required_criteria_generation_turn1.md`: Prompt for generating required criteria (Turn 1)
 - `required_criteria_generation_turn2.md`: Prompt for generating required criteria (Turn 2)
